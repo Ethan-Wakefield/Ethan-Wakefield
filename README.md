@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ethan-Wakefield. I am a full-time student of computer science at Warwick University. Kill me it's exam season. Email: ethanwakefield000@gmail.com.
+Email: ethanwakefield000@gmail.com.
 
 
 <!---
